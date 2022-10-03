@@ -1,5 +1,5 @@
 2D canvas와 typescript를 이용하여 circle 충돌 구현
-- 공의 갯수, 위치, 각도, 크기, 색상 랜덤 생성
+- 공의 개수, 크기, 위치, 각도, 속도, 색상 랜덤 생성
 - requestAnimationFrame, deltaTime 이용
 - 입사각, 반사각 구현
 </br>
