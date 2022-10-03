@@ -7,7 +7,7 @@ var window_width = 1000;
 canvas.width = window_width;
 canvas.height = window_height;
 
-canvas.style.background = "#ff8";
+canvas.style.background = "#FDD8E2";
 let randomNumber = function (min: number, max: number): number {
   var result = Math.random() * (max - min) + min;
   return result;
