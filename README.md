@@ -1,11 +1,9 @@
-- typescript와 react를 이용하여 설문조사 구현
-- recoil 사용하여 전역 상태 관리
-
+2D canvas와 typescript를 이용하여 circle 충돌 구현
+- 공의 개수, 크기, 위치, 각도, 속도, 색상 랜덤 생성
+- requestAnimationFrame, deltaTime 이용
+- 입사각, 반사각 구현
 </br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/105165279/194775028-049d2073-7fe5-4206-82a2-2bd55a9ace21.gif" width="400px">
-  
-  <img src="https://user-images.githubusercontent.com/105165279/194775035-e394e515-2e50-42b5-b800-131e4edeb696.gif" width="400px">
+<img src="https://user-images.githubusercontent.com/105165279/193565681-acd9b1b1-7ab4-4d3a-aabe-98a4fe13cccf.gif" width="700px">
 </p>
-
